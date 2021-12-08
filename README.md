@@ -1,5 +1,5 @@
 # Low-Level-Design-Practice
-This contains Java based Example o Famous Design Patterns.
+This contains Java based example of Famous Design Patterns.
 
 Design Patterns Covered are following
 1. Singleton
