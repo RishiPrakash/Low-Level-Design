@@ -13,4 +13,5 @@ Design Patterns Covered are following
 9. Observer
 
 
+**Please star the project if you find it helpful**
 
